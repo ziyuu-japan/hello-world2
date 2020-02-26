@@ -18,5 +18,9 @@ A New Hope
 \section{The Empire Strikes Back}
 Laugh it up fuzz-ball!...
 
+<<<<<<< HEAD
 \section{Return of the Jedi}
+=======
+\section{Revenge of the Jedi}
+>>>>>>> episode5
 That blast came from the Death Star! That thing's operational!
