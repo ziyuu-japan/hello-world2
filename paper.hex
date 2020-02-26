@@ -1,0 +1,11 @@
+\documentclass{article}
+
+\title{A dummy paper}
+
+\begin{document}
+\maketitle
+
+\section{Introduction}
+A long time ago in a galaxy far, far away...
+
+\end{document}
